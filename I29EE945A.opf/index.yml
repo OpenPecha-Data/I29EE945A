@@ -1,0 +1,23 @@
+id: 00644637031549048bc1180d114ecf0d
+annotation_type: index
+revision: '00001'
+annotations:
+  caf4493a7499450798d20f7edfc8afc9:
+    base: E5A2.txt
+    Chapters:
+    - title: Piṇḍoddāna
+      span:
+        start: 0
+        end: 10
+    - title: Uddāna 1
+      span:
+        start: 11
+        end: 16293
+    - title: Uddāna 2
+      span:
+        start: 16294
+        end: 29612
+    - title: Uddāna 3
+      span:
+        start: 29613
+        end: 33591
